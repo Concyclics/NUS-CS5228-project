@@ -1,2 +1,0 @@
-{"record_id": 0, "iter_per_learner": 1, "logged_metric": {"pred_time": 1.4364628013099143e-06}, "trial_time": 7.324883222579956, "wall_clock_time": 7.635419607162476, "validation_loss": 503.8489111052242, "config": {"early_stopping_rounds": 10, "learning_rate": 0.09999999999999996, "n_estimators": 12}, "learner": "catboost", "sample_size": 59527}
-{"curr_best_record_id": 0}
