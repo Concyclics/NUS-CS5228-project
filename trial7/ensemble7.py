@@ -22,8 +22,6 @@ config = {
     "parallel_trail": 32, # trails in parallel
     "log_postfix": 'trial12.log',
     "eval_method": 'cv',
-    "use_model": ['lgbm', 'xgboost', 'catboost'],
-    "model_weights": [1, 1, 1],
 }
 
 # %%
