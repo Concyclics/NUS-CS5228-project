@@ -1,5 +1,7 @@
 # NUS-CS5228-project
-NUS-CS5228 project about rental predict of HDB
+NUS-CS5228 project about rental predict of HDB.
+
+access through link [Concyclics/NUS-CS5228-project: NUS-CS5228 project about rental predict of HDB (github.com)](https://github.com/Concyclics/NUS-CS5228-project)
 
 * [./trials](./trials): the different preprocessing methods and hyperparameter searching results and logs, the final result is mostly contributed by trial7.
 * [./plots](./plots): the plots and code for EDA and report.
