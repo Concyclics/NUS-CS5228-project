@@ -8,3 +8,6 @@ NUS-CS5228 project about rental predict of HDB
 * [./reference](./reference): reference paper.
 * [./detail.md](./detail.md): summary of our works in Chinese.
 * [./code.ipynb](./code.ipynb): the final code of our project(some config will change in different cluster searching trials).
+
+#### contest
+[Christian von der Weth. (2023). CS5228-2310 Final Project. Kaggle.](https://www.kaggle.com/competitions/cs5228-2310-final-project/overview)
