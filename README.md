@@ -9,7 +9,7 @@ access through link [Concyclics/NUS-CS5228-project: NUS-CS5228 project about ren
 * [./merge](./merge): the workshop of ensembling best predictions.
 * [./reference](./reference): reference paper.
 * [./detail.md](./detail.md): summary of our works in Chinese.
-* [./code.ipynb](./code.ipynb): the final code of our project(some config will change in different cluster searching trials).
+* [./flaml_code.ipynb](./flaml_code.ipynb): the final code of our project(some config will change in different cluster searching trials).
 * [./report](./report): the report.
 
 #### contest
